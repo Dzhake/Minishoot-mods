@@ -1,0 +1,4 @@
+*.cs
+Assembly-CSharp.*
+!Dzhake.cs
+**/
